@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    color:rgb(73, 8, 65);
+}
+h2{
+    color:gray;
+}
+.color{
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
